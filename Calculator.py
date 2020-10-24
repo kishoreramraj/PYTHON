@@ -127,4 +127,6 @@ Button_divide.grid(row=5, column=2, columnspan=1)
 # Row-6 Buttons
 Button_clear.grid(row=6, column=0, columnspan=3)
 
+print("Hie")
+
 root.mainloop()
